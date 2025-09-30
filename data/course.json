@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "65230faa-1186-c39f-c44b-31761a4264d0",
+  "instructors": {
+    "content": [
+      "c91ce378-adf8-ef81-4750-22d198f289c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "72bb549c-c027-56d1-16aa-4e30839a7e79",
+    "website": "mas-962-common-sense-reasoning-for-interactive-applications-fall-2006"
+  },
+  "course_title": "Common Sense Reasoning for Interactive Applications",
+  "hide_download": true,
+  "course_description": "This course will explore the state of the art in common sense knowledge, and class projects will design and build interfaces that can exploit this knowledge to make more usable and helpful interfaces.\n\nThis year's theme will be about how common sense knowledge differs in different languages and cultures, and how machine understanding of this knowledge can help increase communication between people, and between people and machines.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "MAS.964",
+  "primary_course_number": "MAS.962",
+  "course_image_thumbnail": {
+    "content": "b51739bc-04f1-f029-ea6f-c866dd3d5dd1",
+    "website": "mas-962-common-sense-reasoning-for-interactive-applications-fall-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "4334ad7f-ef37-4d1c-a55a-fad87a489503",
+  "site_short_id": "mas.962-fall-2006",
+  "site_url_path": "courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006",
+  "title": "Course Metadata"
+}
